@@ -1,4 +1,4 @@
-# Machine Learning Course Homeworks - HSE 2024
+# Machine Learning Course Homeworks - HSE
 
 This is a repository for the **Machine Learning course** in the Computer Linguistics program at the **Higher School of Economics (HSE), 2023-2024**. This repository contains lab assignments for the course.
 The following topics were covered throughout the course:
